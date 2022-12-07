@@ -1,0 +1,7 @@
+Note: You need to submit the assignment in Hard-form (your own hand-written on paper).
+
+Solve the Following Questions from the Book (Digital Fundamentals eleventh edition by Thomas L. Floyd) attached on Slate!
+
+Problem 6 (Section 8-2 page 489).
+
+Problem 21 (Section 8-3 page 491) for input 67.

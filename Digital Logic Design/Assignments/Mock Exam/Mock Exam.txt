@@ -1,0 +1,11 @@
+Dear Students,
+
+This a warm up mock exam.
+
+Simplify the following Boolean expression using hand written format
+
+
+
+1. using Boolean  algebra (basic laws, rules, and theorems):
+
+2. using Karnaugh map
